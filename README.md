@@ -27,7 +27,9 @@ Future Improvements
 
 ## Here are some potential areas for future improvements:
 •	Implementing more advanced collaborative filtering techniques, such as matrix factorization or deep learning-based models.
+
 •	Incorporating additional features or external datasets to enhance the recommendation quality.
+
 •	Developing a user interface for a more user-friendly experience.
 
 ## Contribution
